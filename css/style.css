@@ -1,0 +1,22 @@
+body{
+	overflow: hidden;
+}
+			
+canvas {
+	width: 100%;
+	height: 100%;
+}
+
+section#keyboardInfo{
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+
+	width: 500px;
+	margin-left: -250px;
+	text-align: center;
+
+	color : #000000;
+	background-color: rgba(128, 128, 128, 0.5);
+	padding: 10px;
+}
